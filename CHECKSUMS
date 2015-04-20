@@ -1,0 +1,127 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+4e1535888a54d9552b61f5c9753cd035 *bin/aefsck.exe
+4934f9c3ad847ff77e74532755526379 *bin/aefsdmn.exe
+8456965ef3b0b0053db354045def8cc6 *bin/aefsdump.exe
+ec7a1065e5c67491cd51310728d7d3f1 *bin/aefsparm.exe
+4cd64f6480b5c9a0ae1630b722aa7984 *bin/aefsutil.exe
+90b49118d27c2e6f9ede5bbe599a8ae1 *bin/mkaefs.exe
+f9dda28a483072b37876ef375090daa0 *bin/mntaefs.exe
+4954c997fced8e9e1bcb43d25e330570 *bin/stubfsd.ifs
+d6ebfe09ab3714f3c67773e259ac89fb *bin/umntaefs.exe
+d2431c8cdae46f55e3e032b4dfe77625 *ciphers/cipher.c
+772f4f52174c5a29f0298a14c9be2ff6 *ciphers/cipher.h
+6f7150d63eb395144757036faa32f1d4 *ciphers/ciphertable.c
+21c2962b06c35ae3891834a8a42e8bbc *ciphers/ciphertable.h
+497cc84bd7ee54fd13b4ed456c0270fb *ciphers/identity.c
+2a97f093ef2b5d6db4ac85fabc075fe2 *ciphers/identity.h
+9b6b3c07c50cf29b1706824175decf6b *ciphers/Makefile
+67287cd99e266a64113a9fdb5a7222e5 *ciphers/rijndael.c
+b1a94cbd2d1538ad052f2f6fe74ebdc8 *ciphers/rijndael.h
+ebfe568baffb17edaba7ee6d6278d3d2 *ciphers/sha.c
+698a587eb908e1f69795db6c2ed04b86 *ciphers/sha.h
+656a129dac7ae3a19c0529b8652027d5 *ciphers/twofish.c
+964fc665edac746665157e638ff96140 *ciphers/twofish.h
+c84a6d848a5d713a75deb75c616b6182 *config.guess
+51361044b8019d6e9c309efcbdafc69b *config.h
+ef30dc709123a79bd11d7261a5f502b4 *config.h.in
+8b62fa7346af52f8a6dd95b79b29833a *config.sub
+82d1d57acc047da426221d2e3aab241e *configure
+0605953e09c016486004a49a38fe4031 *configure.in
+393a5ca445f6965873eca0259a17f833 *COPYING
+efa9f67cfeefdefc692720a3ebd05371 *corefs/basefile.c
+28068e3da9424fa666ea6f1cbeb6eeb9 *corefs/corefs.h
+1e026f3b6cbf3d2bbedfa2fbc1a4c5ce *corefs/coreutils.c
+17551782b05bf7eeac5d3ed7a12dbf33 *corefs/coreutils.h
+1453f91e548e508230b2ba8464f4cc1d *corefs/directory.c
+080fbaec8ee38c2b0c8eed3c2cd489ce *corefs/ea.c
+c8743e97f54ddf197da48ded6ac9b58f *corefs/infosector.c
+253fda5fcb5cbdcbd582a7fddc47f53f *corefs/Makefile
+e03a297533a7bfac0f970f56e51ab2c8 *corefs/sector.c
+4bc23f4fb7df828a7446c75fd3ce2e23 *corefs/storage.c
+74cb7ee0a56e7bf72bb5a7338bd32c4c *corefs/superblock.c
+21fb7f4ce916735c86b0e67007f0d002 *corefs/superblock.h
+580850644f7ee375861f2160f24e6010 *ifsdaemon/aefsdint.h
+e5dff09d1ec9515045425a2a18670071 *ifsdaemon/aefsdmn.c
+f8c83ea2409d70eb065e850cde63fce9 *ifsdaemon/aefsdmn.h
+e9d3709bdd97143420a2099b4203c329 *ifsdaemon/attach.c
+0c992333203579b29e95c6a2174c513d *ifsdaemon/dir.c
+a9831c22f011b4e8356489a1f34f74b6 *ifsdaemon/ea.c
+5ec6e5b3edd776c97f7f6bb008a50fc4 *ifsdaemon/fileinfo.c
+3c0040f305725249f34ce2004d801503 *ifsdaemon/fileio.c
+0bf22135acdacaf3f7d118c1100e87d5 *ifsdaemon/fileop.c
+04d84da1789ded2f88ecf61be7e3aef6 *ifsdaemon/find.c
+58b1911622e6bd94d16f68912471be71 *ifsdaemon/Makefile
+6879ca029855fc65b3fb90437b914014 *ifsdaemon/misc.c
+b7aa9de9233f5b753cbd87a5d0f8d803 *ifsdaemon/openclose.c
+bc4c093d5e05babbc97ff2eeb6483662 *ifsdaemon/utils.c
+37aebd850975ae0525217cc3dd85b438 *ifsdriver/fsd.h
+b7d6532793f36e51b421ab4b920bd8eb *ifsdriver/Makefile
+534079c694ee0e9978160732ce8477c7 *ifsdriver/stubfsd.c
+f91fc7fc54edb4b37a28b300c816bb69 *ifsdriver/stubfsd.def
+baa9622d546670926bd97dd2501ea810 *ifsdriver/stubfsd.h
+fb49f751a2d223e15b23610c5b3a9c98 *ifsutils/aefsparm.c
+bd0fe0c190638c119c95cc086fce58c9 *ifsutils/Makefile
+e7f6d20274290932e898122b8f4d0c46 *ifsutils/mntaefs.c
+236f3cf3261ff6894aac7efacec4d425 *ifsutils/umntaefs.c
+e012878b00084962b4f2bcb4db158911 *install-sh
+2c75716ed7ee8c0d0ead285f80bef612 *Makefile
+a0c8f1223f39bf0d6925e949073112ea *Makefile.conf
+baf71290e54bfd97ebb81c2f28d271f6 *Makefile.conf.in
+fa62dac3a558d1d0c3c9d0b0759066e6 *Makefile.incl
+a1bdc8064df96acbd5895fa7646428c8 *misc/getopt.c
+83ad024894b2ffb41bfb5556dbe796b7 *misc/getopt.h
+07c223bd3d83bc779b46a4ca8253f095 *misc/getopt1.c
+26f3dc329ea18a6bea8ceef18dc7940a *misc/Makefile
+7e4d7f7fef445915e3306a95c50ee1e0 *misc/missing.c
+d8c4eade03846babbdae3ab39ab0267e *nfsd/aefsadd.c
+f68824e62ac960f8bdee57f6ea7c9692 *nfsd/aefsctrl.h
+af9d5d606dc15b682f6959d6b749a727 *nfsd/aefsctrl.x
+27ab0fd61cb62a9c386fd3ac28fb5691 *nfsd/aefsctrl_clnt.c
+0698648c7ee46d650b12a9b01ce6d7b7 *nfsd/aefsctrl_svc.c
+72c1c4b4e79964597bd3432ccef1759d *nfsd/aefsctrl_xdr.c
+cb15eb678be89a71f6173505c558f645 *nfsd/aefsnfsd.c
+9c943f55b7d26551837e84ee56437237 *nfsd/Makefile
+180453f5907935ce9bd658a0e99e0abb *nfsd/mount.h
+4706e053e5abc360301282afc892eb28 *nfsd/mount.x
+f55e9d11c66901f1e31d89ebb90a45d0 *nfsd/mount_svc.c
+0e4953987a98b7f9becb8bb1ac0c854e *nfsd/mount_xdr.c
+44a5d61fcf0aec527308fa87ea1444be *nfsd/nfs_prot.h
+db2f30754b66ab1565755db9b4e43591 *nfsd/nfs_prot.x
+e0230cb38409e9579c4172dc00607f8b *nfsd/nfs_prot_svc.c
+77efa2d8e75ac671ea001eea177a13d9 *nfsd/nfs_prot_xdr.c
+a51bd3178ed5eeb789c81aa731276dee *PGPKEY
+ed653370c02428db3d42461235a24638 *readme.inf
+f69e9809dd3ac5cb4410f81220c8931d *readme.src
+4e6052c281c3c8d5e8232b20eb586ca2 *readme.txt
+b13d3209bdfedf3df49127f8e6f367aa *system/Makefile
+7ae834338e327747fb0b116c2b6faeff *system/os2/Makefile
+713d3d341e961dd28b19df8a9ac611cb *system/os2/os2.c
+8cef7ce911358f041fecd423da561dd4 *system/os2/sysspec.h
+2e84aa416e69af6475da4d1524803cd4 *system/posix/Makefile
+f83a9e4b35dad62b064d58eb5040661e *system/posix/posix.c
+05aebb57a4ab8b8d7a6b934e8786bc86 *system/posix/sysspec.h
+4bcdee3abb9dadc986a1bce82b7e8ec7 *system/sysdep.h
+b238ba93e2a2070e6a49de9c55f13bfe *system/types.h
+c951bca7063b8bf6631cc5c0a49fd154 *utils/aefsck.c
+fc262d5122bdc7a789bca641c3170eac *utils/aefsck.h
+ca1e9c5169c0612ccf701bf26fd04ef6 *utils/aefsdump.c
+7c24671725d2f58e5c0b2dc9214ec95e *utils/aefsutil.c
+db9c5a6bb008a46222920eadca000872 *utils/checkvectors.pl
+9365dfa9cf5acf6f4ccb24d65527d8b3 *utils/Makefile
+5ed3350fae7a32f3be9ead3149147bfc *utils/mkaefs.c
+07b12421f068d26656baccd63c004efc *utils/testcipher.c
+fe80f73aa7c2fd821ae4e2d9bdd31fef *utils/testvec
+3d0623e7c2a5f760aaee813209138878 *utils/utilutils.c
+25d85cd348caa3b0c8202da2abd25765 *utils/utilutils.h
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3i
+Charset: noconv
+
+iQCVAwUBO64HnHn/NDKDgHeNAQE3jAQAtNYQ7WaGAZPVBtY2FbWvVoPQJ4HrtlMF
+3emplQbVzlTn9eSFV+M7SlgEg+rwAd0zi8SvM8lnOc82IDp8nG2kVCPiCgXrT83O
+///keudedWyYtRA7GLPNCSyH4oKEGIaAUdxtdeZ7w8/jl09GbnRToOMJ+pLEdb1C
+AOO6AaaefG0=
+=Ept9
+-----END PGP SIGNATURE-----
